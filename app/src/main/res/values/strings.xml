@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="txt_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="txt_forgot_pass">Forgot password?</string>
+    <!-- TẠM THỜI bỏ txt_no_account cho khỏi dính lỗi -->
+    <string name="txt_register">Register</string>
+</resources>
